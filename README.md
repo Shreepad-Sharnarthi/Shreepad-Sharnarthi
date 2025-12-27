@@ -1,5 +1,5 @@
 # 💫 About Me:
-strong interest in Data Science, Machine Learning, and Artificial Intelligence<br>motivated to grow in the Gen AI / Data Science domain.<br>project experience in Python, data preprocessing, ML algorithms, and model building, along with a good understanding of programming fundamentals and problem-solving<br>.i am student
+strong interest in Data Science, Machine Learning, and Artificial Intelligence<br>motivated to grow in the Gen AI / Data Science domain.<br>project experience in Python, data preprocessing, ML algorithms, and model building, along with a good understanding of programming fundamentals and problem-solving<br>
 
 
 ## 🌐 Socials:
